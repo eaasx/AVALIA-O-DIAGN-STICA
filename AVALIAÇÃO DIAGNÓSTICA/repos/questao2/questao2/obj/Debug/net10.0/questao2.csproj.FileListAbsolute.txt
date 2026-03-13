@@ -1,0 +1,14 @@
+C:\Users\Eduardo\source\repos\questao2\questao2\bin\Debug\net10.0\questao2.exe
+C:\Users\Eduardo\source\repos\questao2\questao2\bin\Debug\net10.0\questao2.deps.json
+C:\Users\Eduardo\source\repos\questao2\questao2\bin\Debug\net10.0\questao2.runtimeconfig.json
+C:\Users\Eduardo\source\repos\questao2\questao2\bin\Debug\net10.0\questao2.dll
+C:\Users\Eduardo\source\repos\questao2\questao2\bin\Debug\net10.0\questao2.pdb
+C:\Users\Eduardo\source\repos\questao2\questao2\obj\Debug\net10.0\questao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\source\repos\questao2\questao2\obj\Debug\net10.0\questao2.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\questao2\questao2\obj\Debug\net10.0\questao2.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\questao2\questao2\obj\Debug\net10.0\questao2.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\questao2\questao2\obj\Debug\net10.0\questao2.dll
+C:\Users\Eduardo\source\repos\questao2\questao2\obj\Debug\net10.0\refint\questao2.dll
+C:\Users\Eduardo\source\repos\questao2\questao2\obj\Debug\net10.0\questao2.pdb
+C:\Users\Eduardo\source\repos\questao2\questao2\obj\Debug\net10.0\questao2.genruntimeconfig.cache
+C:\Users\Eduardo\source\repos\questao2\questao2\obj\Debug\net10.0\ref\questao2.dll
